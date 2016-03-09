@@ -1,0 +1,5 @@
+C:\AM\projectos\Factorization\Factorization\obj\Debug\ResolveAssemblyReference.cache
+C:\AM\projectos\Factorization\Factorization\bin\Debug\Factorization.exe
+C:\AM\projectos\Factorization\Factorization\bin\Debug\Factorization.pdb
+C:\AM\projectos\Factorization\Factorization\obj\Debug\Factorization.exe
+C:\AM\projectos\Factorization\Factorization\obj\Debug\Factorization.pdb
